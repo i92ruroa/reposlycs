@@ -1,3 +1,6 @@
+/* Date: 2020-04-17 */
+/* Author: Antonio Ruiz Roldan (i92ruroa@uco.es) */
+
 #include "./include/myinclude.h"
 int main(){
            f();
